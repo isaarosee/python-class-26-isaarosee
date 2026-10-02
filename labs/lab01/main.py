@@ -11,3 +11,11 @@ print(firstName, lastName)
 # ask the user a question
 yourName = input("What is your first Name? ")
 print("Hello there," , yourName, "!")
+major = "Psychology"
+major = input("What is your major? ")
+num1 = int(input("Enter a number between 0 - 100 "))
+print("You entered" , num1, "!")
+num2 = int(input("Enter a number between 10 - 10000 "))
+print("You entered" , num2, "!")
+print("20 x 10 =", num1 * num2)
+print("I'm a little confused but we'll get there!")
